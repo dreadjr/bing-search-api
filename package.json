@@ -1,0 +1,33 @@
+{
+  "name": "bing-search-api",
+  "version": "0.0.1",
+  "description": "Node.js Bing Search Api Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec --ui bdd --timeout 4000",
+    "watch": "./node_modules/.bin/mocha --reporter min --ui bdd --growl --watch --timeout 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreadjr/bing-search-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreadjr/bing-search-api/issues"
+  },
+  "homepage": "https://github.com/dreadjr/bing-search-api",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "lodash": "^2.4.1",
+    "querystring": "^0.2.0",
+    "request": "^2.48.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "dotenv": "^0.4.0",
+    "mocha": "^2.0.1",
+    "nock": "^0.50.0",
+    "sinon": "^1.11.1"
+  }
+}
