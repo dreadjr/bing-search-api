@@ -6,7 +6,7 @@ node.js bing-search-api client
 
 ## Usage
 
-```node
+```js
 var Bing = require('bing-search-api');
 
 var dotenv = require('dotenv');
