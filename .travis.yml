@@ -11,4 +11,3 @@ deploy:
     secure: WQP6U2qXN68IqX7F3/vWDyEH2gMpYvXdrhb07n5n3FuNHYREZ6lMaQVJs3SzU0h3fsSfhQZcoZmlXyHd9FFB/PKpEDKLvzZhkxI9NMtotRtBE4dxzdcqoWcs4Z9PBHL+WBs+JzRqU34LZ5OmDBgN3otQldiYnmXOfYSGasBJy0g=
   on:
     tags: true
-    repo: dreadjr/bing-search-api
