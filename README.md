@@ -1,7 +1,7 @@
 bing-search-api
 ===============
 
-[![Build Status](https://travis-ci.org/dreadjr/bing-search-api.svg?branch=0.0.1)](https://travis-ci.org/dreadjr/bing-search-api)
+[![Build Status](https://travis-ci.org/dreadjr/bing-search-api.svg?branch=master)](https://travis-ci.org/dreadjr/bing-search-api)
 
 node.js bing-search-api client
 
