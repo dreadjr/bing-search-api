@@ -6,6 +6,7 @@ bing-search-api
 
 node.js bing-search-api client
 
+[Bing Search OData Documentation](https://api.datamarket.azure.com/Bing/Search/$metadata)
 
 ## Usage
 
